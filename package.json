@@ -1,0 +1,28 @@
+{
+  "name": "metron-demo",
+  "version": "1.0.0",
+  "description": "Demo web site to show examples of usage for the metron framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metronical/metron-demo.git"
+  },
+  "keywords": [
+    "metron",
+    "javascript",
+    "typescript",
+    "demo"
+  ],
+  "author": "Michael Szul <michael@szul.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metronical/metron-demo/issues"
+  },
+  "homepage": "https://github.com/metronical/metron-demo#readme",
+  "dependencies": {
+    "metronical.metron": "^1.0.11"
+  }
+}
