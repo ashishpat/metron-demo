@@ -2,5 +2,7 @@
     "config.baseURL": "http://localhost:25442",
     "config.api.dir": "api",
     "config.api.extension": ".json",
-    "config.options.pageSize": 10
+    "config.options.pageSize": 10,
+    "config.storage.localDBName": "metronDemo",
+    "config.storage.localDBVersion": 1
 }
