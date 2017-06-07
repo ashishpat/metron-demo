@@ -1,0 +1,14 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+                "module": "umd", 
+                "target": "es5",
+                "outDir": "static/js/_gen",
+                "sourceMap": true,
+                "declaration": true,
+                "removeComments": true
+            },
+    "files": [
+        "static/ts/app.ts"
+    ]
+}

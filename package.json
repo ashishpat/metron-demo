@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/metronical/metron-demo#readme",
   "dependencies": {
-    "metronical.metron": "^1.0.11"
+    "metronical.metron": "^1.0.14"
   }
 }
