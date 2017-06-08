@@ -4,5 +4,6 @@
     "config.api.extension": ".json",
     "config.options.pageSize": 10,
     "config.storage.localDBName": "metronDemo",
-    "config.storage.localDBVersion": 1
+    "config.storage.localDBVersion": 1,
+    "config.storage.localDBStore": "metron.demo"
 }
